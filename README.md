@@ -1,5 +1,8 @@
 # Lending club case study
-> Outline a brief description of your project.
+> Problem Statement:
+- If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+- If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
+- The company wants to understand the driving factors (or driver variables) behind the loan default. i.e the variables which are strong in loan default.
 
 
 ## Table of Contents
@@ -8,15 +11,11 @@
 * [Univariate Analysis]()
 * [Bivariate analysis for numerical variables]()
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Done the case study as individual.
+- Had an handfull of data insight using EDA (Uni and Bi variat) analysis.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - 1. Will consider the salary based on the house type
@@ -48,10 +47,3 @@
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
